@@ -91,21 +91,23 @@ Used Python libraries (e.g., Matplotlib, Seaborn, WordCloud) to explore and visu
 
 ## 🔗 Project Repository  
 > GitHub Repository : (https://github.com/Manishdebnath99/Build_Week_Project)
+> Construct Week Questionnaires Video : (https://youtu.be/RTMiQJ9G1XI)
 
 ---
 ## 📁 Project Files
---------------------------------------------------------------------------------------------------------------
-| File Name                                | Description                                                     |
-|------------------------------------------|-----------------------------------------------------------------|
-| 1 - Data Loading, Cleaning, and Representation.ipynb    | Load raw data, clean it, and save as CSV         |
-| 2 - SQL_Connection.ipynb                                | Connect Jupyter to SQL and insert data           |
-| 3 - SQL_Analysis.sql                                    | SQL queries for job data insights                |
-| 4 - EDA Data Visualization.ipynb                        | Visualize trends with charts and plots           |
-| clean_job_descriptions.csv                              | Cleaned dataset with key job info                |
-| Build_Week_Presentation.pdf                             | Project summary and key insights (presentation)  |
-| presentation_job_description_analysis.mp4               | Project presentation video                       |
-| job_descriptions_not_clean                              | Data from Kaggle                                 |
---------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+| File Name                                          | Description                                                     |
+|----------------------------------------------------|-----------------------------------------------------------------|
+| 1 - Data Loading, Cleaning, and Representation.ipynb    | Load raw data, clean it, and save as CSV                   |
+| 2 - SQL_Connection.ipynb                                | Connect Jupyter to SQL and insert data                     |
+| 3 - SQL_Analysis.sql                                    | SQL queries for job data insights                          |
+| 4 - EDA Data Visualization.ipynb                        | Visualize trends with charts and plots                     |
+| clean_job_descriptions.csv                              | Cleaned dataset with key job info                          |
+| Build_Week_Presentation.pdf                             | Project summary and key insights (presentation)            |
+| presentation_job_description_analysis.mp4               | Project presentation video                                 |
+| Construct Week Questionnaires Video                     | Questions about project, design and team collaboration     |
+| job_descriptions_not_clean                              | Data from Kaggle                                           |
+------------------------------------------------------------------------------------------------------------------------
 ---
 ## 👥 Contributors  
 - Er. Manish Debnath  (https://github.com/Manishdebnath99)
