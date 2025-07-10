@@ -103,7 +103,7 @@ Used Python libraries (e.g., Matplotlib, Seaborn, WordCloud) to explore and visu
 | 2 - SQL_Connection.ipynb                                | Connect Jupyter to SQL and insert data                     |
 | 3 - SQL_Analysis.sql                                    | SQL queries for job data insights                          |
 | 4 - EDA Data Visualization.ipynb                        | Visualize trends with charts and plots                     |
-| 5 - joblistings_dashboard.pbix                          | Interactive Dashboard to visualize trends                  |                
+| 5 - joblistings_interactive_visuals.pbix                | Interactive Dashboard to visualize trends                  |                
 | clean_job_descriptions.csv                              | Cleaned dataset with key job info                          |
 | Build_Week_Presentation.pdf                             | Project summary and key insights (presentation)            |
 | presentation_job_description_analysis.mp4               | Project presentation video                                 |
