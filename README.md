@@ -31,8 +31,6 @@ Used Python libraries (e.g., Matplotlib, Seaborn, WordCloud) to explore and visu
 - Trends in job postings  
 - Common keywords in job titles
 
-### 4. 
-
 ---
 
 ## 📁 Dataset  
