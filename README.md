@@ -6,7 +6,6 @@ This project focuses on analyzing job description data to derive meaningful insi
 - Cleaning and preprocessing the data  
 - Loading the cleaned data into SQL  
 - Performing SQL-based analysis  
-- Conducting Exploratory Data Analysis (EDA) with visualizations  
 
 ---
 
@@ -30,7 +29,9 @@ Used Python libraries (e.g., Matplotlib, Seaborn, WordCloud) to explore and visu
 - Jobs by location  
 - Salary ranges  
 - Trends in job postings  
-- Common keywords in job titles  
+- Common keywords in job titles
+
+### 4. 
 
 ---
 
@@ -102,8 +103,7 @@ Used Python libraries (e.g., Matplotlib, Seaborn, WordCloud) to explore and visu
 | 1 - Data Loading, Cleaning, and Representation.ipynb    | Load raw data, clean it, and save as CSV                   |
 | 2 - SQL_Connection.ipynb                                | Connect Jupyter to SQL and insert data                     |
 | 3 - SQL_Analysis.sql                                    | SQL queries for job data insights                          |
-| 4 - EDA Data Visualization.ipynb                        | Visualize trends with charts and plots                     |
-| 5 - joblistings_interactive_visuals.pbix                | Interactive Dashboard to visualize trends                  |                
+| 4 - EDA Data Visualization.ipynb                        | Visualize trends with charts and plots                     |               
 | clean_job_descriptions.csv                              | Cleaned dataset with key job info                          |
 | Build_Week_Presentation.pdf                             | Project summary and key insights (presentation)            |
 | presentation_job_description_analysis.mp4               | Project presentation video                                 |
