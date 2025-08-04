@@ -1,4 +1,4 @@
-# 💼 Job Descriptions Analysis
+# 💼 Job Posting Analysis
 
 ## 📌 Project Overview  
 This project focuses on analyzing job description data to derive meaningful insights. It includes:
